@@ -1,2 +1,0 @@
-# ReactDocplannerclone
-Created with CodeSandbox

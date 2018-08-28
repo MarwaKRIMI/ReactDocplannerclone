@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+.service-card {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 550px;
+}
+.category {
+  color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  opacity: 0.7;
+}
+.logo {
+  width: 200px;
+  height: 100px;
+}
+
+.title {
+  color: white;
+  padding-left: 20px;
+}
+.screenshot {
+  width: 400px;
+  padding-left: 200px;
+  margin-left: 70px;
+}
+.features {
+  display: flex;
+  background-color: #dff5f4;
+}
+.feature-card {
+  color: #00b39b;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 200px;
+  min-height: 250px;
+  border-radius: 4px;
+}
+.feature-card-description {
+  color: grey;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.center {
+  margin-left: 50%;
+}
+.objectif {
+  text-align: center;
+}
+.objectif2 {
+  text-align: center;
+}
+.paragraph-footer {
+  color: gray;
+  text-align: center;
+}
+
+.en-tete {
+  text-decoration: none;
+  color: #00b39b;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 100px;
+  text-align: right;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #3d83df;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  padding-top: 100px;
+  text-align: right;
+}
+
+.container-center {
+  margin-bottom: 100px;
+  top: 0px;
+}
